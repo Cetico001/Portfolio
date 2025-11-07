@@ -1,0 +1,19 @@
+html{
+    background: #6F8381;
+}
+.nome{
+    color:#284400;
+    text-align: left;
+    font-size: 50px;
+    font-family: arial;
+    font-weight: bold;
+}
+h2{
+    color:#284400;
+}
+hr{
+    border-color:#284400;
+}
+*{
+    font-family:arial
+}
